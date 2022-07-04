@@ -1,0 +1,93 @@
+body {
+    display: block;
+    margin: 8px;
+}
+
+
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 20%;
+    height: 100%;
+    background-color: rgb(255, 120, 30);
+}
+
+
+.img-perfil{
+    border-radius: 100%;
+    position:absolute;
+    left:8%;
+    top: 10%;
+    position: center;
+    width: 300px;
+    height: 300px;
+}
+
+.btn{
+    margin-top: 500px;
+    color: blue;
+    flex-flow: row wrap;
+    font-size: 50px;
+    padding-bottom: 5px;
+    list-style-type: none
+}
+
+section{
+    position: fixed;
+    top: 200px;
+    left: 450px;
+    width: 60%;
+    height: 50%;
+
+}
+footer{
+    position: fixed;
+    top: 800px;
+    left: 450px;
+    width: 30%;
+    height: 10%;
+
+     
+
+}
+h1{
+    font-style: italic;
+    color: tomato;
+    font-size:50px;
+   
+  }
+ 
+  B{
+   color:maroon; 
+  }
+
+  h2,h3,h4{
+    font-size:30px;
+  }
+
+  .conhecimento{
+    flex-flow: row wrap;
+    font-size: 50px;
+    padding-bottom: 5px;
+    list-style-type: none
+  }
+ .objetivo{
+    font-size: 30px;
+
+ }
+
+ a{
+    font-size: 50px;
+    text-decoration:none
+ }
+ #email{
+    font-size: 30px;
+ }
+ .redes-sociais{
+    width: 12%;
+    height: 12%;
+ }
+
+
+
